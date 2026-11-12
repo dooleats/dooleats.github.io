@@ -1,5 +1,5 @@
 ---
-layout: single
+title: "Welcome to DoolEats"
 ---
 
-Welcome to DoolEats
+Your intro text here.
