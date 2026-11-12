@@ -1,0 +1,5 @@
+   main:
+     - title: "Reviews"
+       url: /reviews/
+     - title: "Lists"
+       url: /lists/
