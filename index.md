@@ -2,4 +2,4 @@
 title: "Welcome to DoolEats"
 ---
 
-Your intro text here.
+We're Emory students who love eating.
