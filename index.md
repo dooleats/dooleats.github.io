@@ -2,4 +2,4 @@
 layout: single
 ---
 
-# Welcome to DoolEats
+Welcome to DoolEats
