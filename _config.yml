@@ -23,6 +23,9 @@ collections:
   lists:
     output: true
     permalink: /lists/:path/
+  guides:
+    output: true
+    permalink: /guides/:path/
 
 defaults:
   - scope:
