@@ -2,7 +2,7 @@
 title: "Guides"
 permalink: /guides/
 layout: collection
-collection: Guides
+collection: guides
 entries_layout: grid
 classes: wide
 ---
